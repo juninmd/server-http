@@ -1,5 +1,0 @@
-name: Test Perm Caller
-on: push
-jobs:
-  call:
-    uses: juninmd/base-actions/.github/workflows/reusable-test-permissions.yml@main

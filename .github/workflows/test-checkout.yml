@@ -1,5 +1,0 @@
-name: Test Checkout Caller
-on: push
-jobs:
-  call:
-    uses: juninmd/base-actions/.github/workflows/reusable-test-checkout.yml@main
