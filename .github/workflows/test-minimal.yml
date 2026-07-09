@@ -1,0 +1,5 @@
+name: Test Minimal Caller
+on: push
+jobs:
+  call:
+    uses: juninmd/base-actions/.github/workflows/reusable-test-minimal.yml@main
